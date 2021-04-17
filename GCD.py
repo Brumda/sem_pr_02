@@ -8,4 +8,4 @@ def gcd(a, b):
     else:
         return gcd(b, a % b)
 
-print(gcd(89, 144))
+print(gcd(89, 52))
